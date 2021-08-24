@@ -4,6 +4,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+<script src="//static.filestackapi.com/filestack-js/3.x.x/filestack.min.js"></script>
 
 const IndexPage = () => (
   <Layout>
